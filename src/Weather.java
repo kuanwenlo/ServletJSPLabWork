@@ -10,7 +10,7 @@ import java.nio.file.Paths;
 public class Weather {
 
     public static void main(String[] args) throws Throwable {
-        
+
         BufferedReader br = Files.newBufferedReader(
                 Paths.get("weather.csvx"));
         Reading[] readings = new Reading[12];
