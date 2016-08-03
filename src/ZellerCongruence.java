@@ -38,8 +38,11 @@ public class ZellerCongruence {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Please type in the year(integer)");
         int year = Integer.valueOf(sc.nextInt());
+        System.out.println("Please type in the month(integer)");
         int month = Integer.valueOf(sc.nextInt());
+        System.out.println("Please type in the day(integer)");
         int day = Integer.valueOf(sc.nextInt());
 
         String date = tellDay(year, month, day);
