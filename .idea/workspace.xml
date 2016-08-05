@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da33f62c-fe5c-4cf8-8896-ee468ccb6a84" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day3/src/CasinoMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day4/src/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day4/src/Bank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day4/src/CheckingAccount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day4/src/MortgageAccount.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DataAnalysis.java" afterPath="$PROJECT_DIR$/Day2/src/DataAnalysis.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Fehrenheit2CelciusConverter.java" afterPath="$PROJECT_DIR$/Day1/src/Fehrenheit2CelciusConverter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MethodArguements.java" afterPath="$PROJECT_DIR$/Day3/src/MethodArguements.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Reading.java" afterPath="$PROJECT_DIR$/Day3/src/Reading.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Weather.java" afterPath="$PROJECT_DIR$/Day3/src/Weather.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ZellerCongruence.java" afterPath="$PROJECT_DIR$/Day2/src/ZellerCongruence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/weather.csvx" afterPath="$PROJECT_DIR$/Day3/src/weather.csvx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ServletJSPLabWork/Weather.class" afterPath="$PROJECT_DIR$/out/production/ServletJSPLabWork/Weather.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ServletJSPLabWork/State.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Day3/src/CasinoMachine.java" afterPath="$PROJECT_DIR$/Day4/src/CasinoMachine.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ServletJSPLabWork.iml" afterPath="$PROJECT_DIR$/ServletJSPLabWork.iml" />
     </list>
     <ignored path="ServletJSPLabWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +27,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="CasinoMachine.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day3/src/CasinoMachine.java">
+        <entry file="file://$PROJECT_DIR$/Day4/src/CasinoMachine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
@@ -146,6 +134,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Day4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServletJSPLabWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServletJSPLabWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Day3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -211,6 +217,9 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="servletjsplabwork" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kualo\IdeaProjects\ServletJSPLabWork\Day3\src" />
       <recent name="C:\Users\kualo\IdeaProjects\ServletJSPLabWork\Day2\src" />
@@ -219,25 +228,10 @@
       <recent name="C:\Users\kualo\IdeaProjects\ServletJSPLabWork\Day4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.State">
+  <component name="RunManager" selected="Application.CasinoMachine">
     <configuration default="false" name="ZellerCongruence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ZellerCongruence" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ServletJSPLabWork" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DataAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="DataAnalysis" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -283,6 +277,21 @@
     <configuration default="false" name="State" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="State" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ServletJSPLabWork" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CasinoMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="CasinoMachine" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -547,18 +556,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.ZellerCongruence" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DataAnalysis" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Weather" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Bank" />
-      <item index="4" class="java.lang.String" itemvalue="Application.State" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Weather" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Bank" />
+      <item index="3" class="java.lang.String" itemvalue="Application.State" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CasinoMachine" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.State" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Bank" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Weather" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ZellerCongruence" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DataAnalysis" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CasinoMachine" />
+        <item index="1" class="java.lang.String" itemvalue="Application.State" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Bank" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Weather" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ZellerCongruence" />
       </list>
     </recent_temporary>
   </component>
@@ -931,7 +940,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day3/src/CasinoMachine.java">
+    <entry file="file://$PROJECT_DIR$/Day4/src/CasinoMachine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
