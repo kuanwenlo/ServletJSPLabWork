@@ -11,4 +11,5 @@ public enum CasinoMachine {
             System.out.println(CasinoMachine.values()[ThreadLocalRandom.current().nextInt(CasinoMachine.values().length)]);
         }
     }
+
 }

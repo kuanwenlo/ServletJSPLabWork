@@ -12,7 +12,7 @@ public class Weather {
     public static void main(String[] args) throws Throwable {
 
         BufferedReader br = Files.newBufferedReader(
-                Paths.get("weather.csvx"));
+                Paths.get("Day3/src/weather.csvx"));
         Reading[] readings = new Reading[12];
         String line;
 
